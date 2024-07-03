@@ -1,9 +1,10 @@
 # web_dev_practice
 
-This repository is dedicated to personal practice and experimentation in web development. It houses a collection of projects inspired by online courses, tutorials, and personal ideas. The main goal is to hone coding skills and explore various web development concepts.
+This repository is for personal practice and experimentation in web development. It includes projects inspired by online courses, tutorials, and personal ideas. The main goal is to improve coding skills and explore web development concepts.
 
 ## Projects
 
-- **Project 1**: Description of the first project.
-- **Project 2**: Description of the second project.
+- **fitness-app**: 
+  - Description: A fitness application built with TypeScript and React.
+  - Video: [Build a Complete Typescript React Fitness Application for Beginners](https://www.youtube.com/watch?v=I2NNxr3WPDo&t=2674s)
 - ...
