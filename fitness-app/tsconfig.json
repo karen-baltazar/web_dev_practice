@@ -23,6 +23,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "postcss.config.cts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
