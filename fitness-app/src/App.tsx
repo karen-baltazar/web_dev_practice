@@ -5,6 +5,7 @@ import OurClasses from "@/scenes/ourclasses";
 import ContactUs from "@/scenes/contactus";
 import { useEffect, useState } from "react";
 import { SelectedPage } from "@/shared/type";
+import Footer from "./scenes/footer";
 
 function App() {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(SelectedPage.Home);
@@ -36,6 +37,7 @@ function App() {
         <Benefits setSelectedPage={setSelectedPage} />
         <OurClasses setSelectedPage={setSelectedPage} />
         <ContactUs setSelectedPage={setSelectedPage} />
+        <Footer />
       </div>
     </>
   )
