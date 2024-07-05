@@ -6,5 +6,5 @@ This repository is for personal practice and experimentation in web development.
 
 - **fitness-app**: 
   - Description: A fitness application built with TypeScript and React.
-  - Video: [Build a Complete Typescript React Fitness Application for Beginners](https://www.youtube.com/watch?v=I2NNxr3WPDo&t=2674s)
+  - Video: [Build a Complete Typescript React Fitness Application for Beginners](https://youtu.be/I2NNxr3WPDo?si=KOavPa6801JmBv10)
 - ...
