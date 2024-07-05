@@ -132,18 +132,16 @@ const Benefits = ({ setSelectedPage }: Props) => {
                             }}
                         >
                             <p className="my-5">
-                                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                                Felis orci diam odio.
+                                Our members are our top priority. We provide the best facilities, 
+                                trainers and classes to help you reach your fitness goals. 
+                                With millions of happy members, we are confident that you will 
+                                love our gym as much as we do.
                             </p>
                             <p className="mb-5">
-                                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                                enim mattis odio in risus nunc.
+                                Our goal is to help you achieve your fitness goals and live a 
+                                healthier lifestyle. We provide the tools and support you need 
+                                to succeed, whether you want to lose weight, build muscle, or 
+                                improve your overall health.                                
                             </p>
                         </motion.div>
 
